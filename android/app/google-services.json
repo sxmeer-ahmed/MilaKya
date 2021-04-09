@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1078145942782",
+    "project_id": "milakya",
+    "storage_bucket": "milakya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078145942782:android:660a62aa81e9ca27d611af",
+        "android_client_info": {
+          "package_name": "com.example.milakya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078145942782-vu7na77tng81cdvnvcsc4o038k14dgoo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwCnUeskYYIRsmnb1XB7Nsm78l0X4Jz7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078145942782-vu7na77tng81cdvnvcsc4o038k14dgoo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
